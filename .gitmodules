@@ -1,3 +1,6 @@
 [submodule "themes/alaggek"]
 	path = themes/alaggek
 	url = git@github.com:gkmngrgn/hugo-alageek-theme.git
+[submodule "public"]
+	path = public
+	url = git@github.com:carlogilmar/dummy_blog.git
