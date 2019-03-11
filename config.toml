@@ -1,5 +1,5 @@
 author = "@carlogilmar"
-baseurl = "/"
+baseurl = "http://carlogilmar.me/dummy_blog/"
 canonifyurls = true
 copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
 paginate = 3
