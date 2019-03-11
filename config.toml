@@ -1,0 +1,28 @@
+author = "@carlogilmar"
+baseurl = "/"
+canonifyurls = true
+copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
+paginate = 3
+theme = "alaggek"
+title = "Taller de Git"
+
+[params]
+copyright = "© 2019 Taller de Git"
+copyrightUrl = "https://gokmengorgen.net"
+faviconfile = "https://gokmengorgen.net/img/laughing-man-favicon.png"
+latestpostcount = 5
+logofile = "https://lab.github.com/public/images/avatar.png"
+highlightjs = true
+
+[[menu.primary]]
+identifier = "blog"
+name = "Blog"
+url = "/blog/"
+weight = 10
+
+[[menu.primary]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 20
+
